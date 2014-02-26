@@ -1,9 +1,9 @@
-Sitecore SIM Data Folder Config Patch Pipeline
-==============================================
+Sitecore SIM Data Folder Config Patch Pipeline Processor
+========================================================
 
-This is a pipeline for the Sitecore Instance Manager, that creates a *DataFolder.config* patch file in the *App_Config/Include* directory when a new instance is installed or reinstalled.
+This is a pipeline processor for the Sitecore Instance Manager, that creates a *DataFolder.config* patch file in the *App_Config/Include* directory when a new instance is installed or reinstalled.
 
-More information can be found on my blog [here](http://www.seanholmesby.com/).
+More information can be found on my blog [here](http://www.seanholmesby.com/datafolder-config-patch-for-sitecore-instance-manager-sim-installs/).
 
 **Note: This build is for SIM 1.3 - Update 3 only. Don't use these files for any other versions as it'll cause installations to fail.**
 
