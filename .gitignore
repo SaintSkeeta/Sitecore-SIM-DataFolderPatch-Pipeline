@@ -1,0 +1,18 @@
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Hedgehog.SIM.Pipelines specific
+Hedgehog.SIM.Pipelines/References/SIM.Base.dll
+Hedgehog.SIM.Pipelines/References/SIM.Kernel.Pipelines.dll
+Hedgehog.SIM.Pipelines/References/SIM.Pipelines.dll
+
